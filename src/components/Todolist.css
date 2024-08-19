@@ -8,6 +8,7 @@ body{
     border: 3px solid #ccc;
     border-radius: 15px;
     background-color: #4b4848;
+    box-shadow: 3 4px 4px rgba(0, 0, 0,1);
 }
 
 h1{
@@ -24,7 +25,7 @@ h1{
     padding: 8px;
     margin-right: 10px;
     border-radius:10px 0 10px 0 ;
-    border:  1px solid blueviolet;
+    border:  1px solid cadetblue;
 }
 .add-btn, .cancel-btn, .update-btn{
     padding: 8px 8px;
@@ -40,6 +41,7 @@ h1{
 
     background-color: black;
     color: cadetblue;
+    border:1px solid cadetblue;
 
 }
 
